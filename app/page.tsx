@@ -9,7 +9,7 @@ const CONFIG = {
   userBubbleColor: "bg-indigo-500",   // ইউজারের মেসেজের রঙ
   headerTextColor: "text-indigo-600", // হেডারের লেখার রঙ
   placeholderText: "কিছু একটা লিখুন...", // ইনপুট বক্সের টেক্সট
-  systemPrompt: "You are a helpful assistant.", // বট কেমন আচরণ করবে
+  systemPrompt: "banglay kotha bolba, bangla letter e", // বট কেমন আচরণ করবে
 };
 // ---------------------------------------------------------
 
